@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+
+langchain
+langchain-community
+langchain-ollama
+
+httpx
+beautifulsoup4
+readability-lxml
+lxml
