@@ -15,3 +15,9 @@ uvicorn rag_assistant.app.main:app --reload --port 8000
 
 ## Check
 http://127.0.0.1:8000/health
+
+
+## Author
+
+Nikita M.
+
